@@ -1,12 +1,7 @@
-// Copyright (C) 2018 DigiPen Institute of Technology.
-// Reproduction or disclosure of this file or its contents without the prior
-// written consent of DigiPen Institute of Technology is prohibited.
-//
 // File Name: sockets.cpp
 // Purpose:   To implement the platform specifics needed for berkeley sockets.
 // Language:  C++
 // Platform:  Visual Studio 15.8.2 w/ C++17, g++ (Ubuntu 7.3.0-16ubuntu3) 7.3.0
-// Project:   CS180 Operating Systems
 // Author:    Kang Tae wook
 // Creation date: 2018/11/15
 
